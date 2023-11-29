@@ -1,7 +1,7 @@
 {
-    "name": "PDennProxy",
-    "description": "The official PDennProxy repo.",
-    "repository": "https://github.com/P-DennyGamingYT/PDennProxy",
+    "name": "SubZero Proxy",
+    "description": "The official SubZero Proxy repo.",
+    "repository": "https://github.com/paysonism/SubZero-Proxy",
     "logo": "",
-    "keywords": ["tomp", "ultraviolet", "PDennSploit", "PDennProxy"]
+    "keywords": ["tomp", "ultraviolet", "SubZero", "Proxy"]
 }
